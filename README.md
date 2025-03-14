@@ -1,4 +1,4 @@
-### **Installation de Webmin sur Fedora**  
+# Installation de Webmin sur Fedora
 
 Webmin est un puissant outil d’administration système basé sur le web. Il permet de gérer divers aspects d’un serveur Fedora, comme les utilisateurs, les services, les mises à jour et la configuration réseau, via une interface graphique accessible depuis un navigateur.  
 
@@ -86,4 +86,3 @@ sudo rm -rf /etc/webmin
 ### **Conclusion**  
 Webmin est un excellent outil pour l’administration à distance d’un serveur Fedora. Avec son interface graphique, il facilite la gestion des services Linux sans avoir à utiliser directement la ligne de commande.  
 
-Besoin d’aide pour configurer un module spécifique sur Webmin ? 😊
